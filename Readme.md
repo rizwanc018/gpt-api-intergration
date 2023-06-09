@@ -1,9 +1,10 @@
+- Clone repository
 - Navigate into the project directory
-- Add api key to .env
+- Add OpenAi api key to .env
 - Install required modules
 
    ```bash
-   $ npm install
+   npm install
    ```
 - Run the app
 
